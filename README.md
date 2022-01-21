@@ -1,1 +1,1 @@
-# git-od-podstaw
+# paragon z warzywniaka
